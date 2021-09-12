@@ -1,0 +1,19 @@
+
+div {
+    text-align: center;
+}
+button {
+    padding: 10px;
+    border: solid 1px;
+    border-radius: 5px;
+    
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #fffff7;
+}    
+
+h1 {
+    text-transform: uppercase;
+}
